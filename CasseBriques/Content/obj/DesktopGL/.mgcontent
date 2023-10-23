@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Bouton_1 copie.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/background.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Backgrounds/Back_1.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Backgrounds/Back_2.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Backgrounds/Back_3.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Backgrounds/Back_4.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Backgrounds/Back_5.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Backgrounds/Back_6.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Backgrounds/Back_7.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Backgrounds/Back_8.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Balls/bFire.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Balls/bice.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Balls/bMenu.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Balls/bNormal.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Balls/bTime.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/BckMenu.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/BkGameOver.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Bouton_1.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Bouton_2.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Bricks/Brique_1.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Bricks/Brique_2.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Bricks/Brique_3.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Bricks/Brique_4.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Bricks/Brique_5.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Button1.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Explosion.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/GameOver.spritefont</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Gun.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Heart.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/HUD.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/HUD1Font.spritefont</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/HUD2.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/HUDFont.spritefont</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/iconGun.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/MenuFont.spritefont</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/bomb.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/BulletHits.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/Catch.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/Catch2.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/CatchPersonnage.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/Dead.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/End.mp3</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/enlarge.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/GamePlay.mp3</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/hitcadre.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/hitfreeze.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/hitMetal.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/hitmonster.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/Intro.mp3</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/MegaBall.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/multiball.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/Selection.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/shoot.wav</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Pad_1.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Pad_2.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/pFire.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/pIce.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/PNormal.png</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/PopUpFont.spritefont</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/PopUps.spritefont</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/SmallTextFont.spritefont</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/TitleFont.spritefont</File>
+    <File>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/victory.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

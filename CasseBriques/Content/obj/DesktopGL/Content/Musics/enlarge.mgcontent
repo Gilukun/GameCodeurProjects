@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/Musics/enlarge.wav</SourceFile>
+  <SourceTime>2023-07-04T10:41:20+04:00</SourceTime>
+  <DestFile>/Users/gilles/Documents/CDC2-main/ProjetCasseBriques/CasseBriques/Content/bin/DesktopGL/Content/Musics/enlarge.xnb</DestFile>
+  <DestTime>2023-10-18T13:29:42.6370258+04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T15:44:56+04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T15:44:56+04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
